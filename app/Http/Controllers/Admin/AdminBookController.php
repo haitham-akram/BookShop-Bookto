@@ -25,7 +25,7 @@ class AdminBookController extends Controller
         ->with('BookInfo.Writer')
         ->with('BookInfo.Place')
         ->get();
-    dd($Books);
+    dd($Books->ToArray());
         return view('Admin.admin_BooKList')->with('Books',$Books);
     }
     public function create(){
