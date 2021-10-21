@@ -59,7 +59,7 @@
                                 <tr>
                                     <td>{{$book->id}}</td>
                                     <td><img class="img-fluid rounded" src="{{asset('images/books/'.$book->img_URL)}}" alt=""></td>
-                                    <td>{{$book['name']}}</td>
+                                    <td>{{$book->name}}</td>
                                     @if(!empty($book->BookInfo))
                                     <td>
                                         @foreach($book->BookInfo as $BookInfo)
