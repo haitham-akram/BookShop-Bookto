@@ -25,7 +25,7 @@ class AdminBookController extends Controller
         ->with('BookInfo.Writer')
         ->with('BookInfo.Place')
         ->get();
-        return view('Admin.admin_BooKList')->with('Books',$Books);
+        return view('Admin.admin_BookList')->with('Books',$Books);
     }
     public function create(){
         $Category = Category::select()->get();
