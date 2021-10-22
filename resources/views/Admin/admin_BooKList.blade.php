@@ -6,7 +6,7 @@
         </h5>
         <nav aria-label="breadcrumb">
             <ul class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{url('index')}}">Admin</a></li>
+                <li class="breadcrumb-item"><a href="{{url('admin_books')}}">Admin</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Books</li>
             </ul>
         </nav>
