@@ -9,7 +9,22 @@ Booksto is a web application built by php Laravel Framework. Booksto is a Booksh
 
 - Show All books that admin Added to guest.
 - Let Guest search for book based on  name of the book, Category, Author or Publishing place.
--      
+- Show book Lists for Admin.
+- Add a new book.
+- Edit an existent book.
+- Delete an existent book.
+- Show Category Lists.
+- Add a new book Category.
+- Edit an existent book Category.
+- Delete an existent book Category.
+- Show Author Lists.
+- Add a new Author.
+- Edit an existent Author.
+- Delete an existent Author.
+- Show Publishing Place Lists.
+- Add a new Publishing Place.
+- Edit an existent Publishing Place.
+- Delete an existent Publishing Place.
 
 ## How To Install Booksto
 You can see and review Booksto [Here](https://aqueous-garden-09347.herokuapp.com/).
