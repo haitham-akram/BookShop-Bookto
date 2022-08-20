@@ -31,7 +31,7 @@ You can see and review Booksto [Here](https://aqueous-garden-09347.herokuapp.com
 
 To Login as 
 - Admin Email: Admin@mail.com , Password : Admin@123456
-- Guest: Just go to site [Here📚](https://aqueous-garden-09347.herokuapp.com/)
+- Guest: Just go to the site [Here📚](https://aqueous-garden-09347.herokuapp.com/)
 
 To Install Locally 
 -  Download the code from the repository.
