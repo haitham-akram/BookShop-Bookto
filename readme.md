@@ -17,7 +17,7 @@ You can see and review Booksto [Here](https://aqueous-garden-09347.herokuapp.com
 To Login as 
 - Admin Email: Admin@mail.com , Password : Admin@123456
 - Guest: Just go to site [Here📚](https://aqueous-garden-09347.herokuapp.com/)
-
+- 
 To Install Locally 
 -  Download the code from the repository.
 -  create a .env file or copy one from any of your previous laravel project and put it in root.
